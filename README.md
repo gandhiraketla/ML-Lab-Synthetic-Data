@@ -1,5 +1,7 @@
 # ML-Lab-Synthetic-Data
-The script generates syntheric data that can be used in model training. Script takes three parameters 
+The script generates syntheric data that can be used in model training. 
+Pre-requiste to run scripts : Python and Tensorflow.
+Script takes three parameters 
 1. Path of folder where images are generates
 2. No of training images
 3. No of evaluation images
